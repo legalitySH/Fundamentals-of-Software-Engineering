@@ -1,0 +1,2 @@
+D:\VS 2022\helloworld\lab 02 shimko\lab03\x64\Debug\lab03.exe
+C:\Users\Алексей\Desktop\1 КУРС\Основы программной инженерии\Лабараторные работы\Лабараторная работа №3\lab03\x64\Debug\lab03.exe
